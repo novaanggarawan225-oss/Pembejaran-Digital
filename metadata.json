@@ -1,0 +1,6 @@
+{
+  "name": "KELAS DIGITAL",
+  "description": "Aplikasi Web Pembelajaran Digital Modern untuk Guru dan Murid dengan Integrasi Google Sheets dan Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
